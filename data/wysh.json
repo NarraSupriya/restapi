@@ -1,0 +1,1522 @@
+[
+    {
+        "id": 1,
+        "name": "Asawari Joshi",
+        "description": "Asawari Joshi is an Indian actress. She has acted in many Marathi films and serials. She is known for her roles in Office Office, Om Shanti Om etc.",
+        "subtitle": "Office Office",
+        "img": "https://media.wysh.app/celeb/3da2bb7b251e82bc8db92c38208c1dde.jpg",
+        "category": "brand-promotion-hindi"
+    },
+    {
+        "id": 2,
+        "name": "Arjit Taneja",
+        "description": "Arjit Taneja is an actor and model. Currently, Taneja is portraying Azaan Akhtar Mirza in Colors TVs romantic drama Bahu. ",
+        "subtitle": "Popular Actor",
+        "img": "https://media.wysh.app/celeb/1a67b8daff7adb546d28b338e65e8d04.jpg",
+        "category": "brand-promotion-hindi"
+    },
+    {
+        "id": 3,
+        "name": "Rajini Chandy",
+        "description": "Rajini Chandy is a Malayalam actress, known for her work in Oru Muthassi Gadha. She was a participant in Bigg Boss - 2.",
+        "subtitle": "Oru Muthassi Gadha",
+        "img": "https://media.wysh.app/celeb/300288f4d33977c990d93ea1cc17ebe9.jpg",
+        "category": "malayalam-stars"
+    },
+    {
+        "id": 4,
+        "name": "Vivek Gopan",
+        "description": "Vivek Gopan is an actor in the Malayalam film and TV industry. He rose to fame with the TV series ‘Parasparam’.",
+        "subtitle": "Actor - Parasparam",
+        "img": "https://media.wysh.app/celeb/77c557c838d2e6b48dae107162e988ab.jpg",
+        "category": "malayalam-stars"
+    },
+    {
+        "id": 5,
+        "name": "Bakhtyar Irani",
+        "description": "Bakhtyar has acted in movies like Karzzzz, Love Ka Tadka. He has been a part of various reality shows like Zara Nachke Dikha, BigBoss-3, etc.",
+        "subtitle": "Nach Baliye, Actor",
+        "img": "https://media.wysh.app/celeb/097856f8bfcb788e64d21e56ca6d1fb3.jpg",
+        "category": "featured"
+    },
+    {
+        "id": 6,
+        "name": "Ritu Varma",
+        "description": "Ritu Varma is a South Indian film actress. She rose to fame with the movie \"Pelli Choopulu\" and then went on to work in other successful films.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/b4e070fe949f409a627affa9db67efc9.jpg",
+        "category": "featured"
+    },
+    {
+        "id": 7,
+        "name": "Nidhi Subbaiah",
+        "description": "Nidhi is an Indian film actress, known for her roles in Pancharangi, Krishnan Marriage Story, Anna Bond, Oh My God, Nanna Ninna Prema Kathe etc.",
+        "subtitle": "Pancharangi",
+        "img": "https://media.wysh.app/celeb/77e653e42fa12b7384ccb73f8751a6d0.jpg",
+        "category": "Movie stars - Kannada"
+    },
+    {
+        "id": 8,
+        "name": "Ashwin Kaushal",
+        "description": "Ashwin Kaushal is an Indian actor and writer. He is best known for movies and serials like PK, Slave and Ssshhhh... Koi Hai.",
+        "subtitle": "P.K.",
+        "img": "https://media.wysh.app/celeb/bd813ec8386d0d28efc8626e0ba78deb.jpg",
+        "category": "old-gold"
+    },
+    {
+        "id": 9,
+        "name": "Ruslan Mumtaz",
+        "description": "Ruslan is known for acting in serials like Balika Vadhu, Laal Ishq, MTV Big F, etc. He has acted in movies like Jabariya Jodi, Yeh Sali Aashiqui, etc",
+        "subtitle": "Popular TV Star",
+        "img": "https://media.wysh.app/celeb/e3589c336e2c5df15b265f1dc9236c8c.jpg",
+        "category": "just400-hindi"
+    },
+    {
+        "id": 10,
+        "name": "Shruti Panwar",
+        "description": "Shruti is known for her roles in films and serials like Raaz, Aetbaar, Chattan, Mumkin, Achanak, Chalti Ka Naam Antakshari, etc.",
+        "subtitle": "Raaz",
+        "img": "https://media.wysh.app/celeb/14ea7d66fdc8899b3472e6149a8c6601.jpg",
+        "category": "old-gold"
+    },
+    {
+        "id": 11,
+        "name": "Eshaan Sahney",
+        "description": "Eshaan is a trained Punjabi singer, composer, & producer who was a lead actor DEV in Parivarish-S1. His famous songs are Teri Saun & Gora Mukhda.",
+        "subtitle": "Punjabi Singer",
+        "img": "https://media.wysh.app/celeb/ea8e58917ca192994f70b6902d7c9bc2.jpg",
+        "category": "actors-Punjabi"
+    },
+    {
+        "id": 12,
+        "name": "Preeto Sawhney",
+        "description": "Anshu is an actress who got popular from the show Preeto Top 10 & works predominantly in the Punjabi films like \"Carry on Jatta\", \"Punjab Bolda\", etc.",
+        "subtitle": "Punjabi Actress",
+        "img": "https://media.wysh.app/celeb/e3e85f0d777b4ad66f1e6e3f235a5fed.jpg",
+        "category": "actors-Punjabi"
+    },
+    {
+        "id": 13,
+        "name": "Ravinder Grewal",
+        "description": "Ravinder is an actor, singer & producer working predominantly in Punjabi movies like Danger Doctor Jelly, Judge Singh LLB, 15 Lakh Kado Aauga, etc.",
+        "subtitle": "Punjabi Actor",
+        "img": "https://media.wysh.app/celeb/f6ce606595cacd9aa141e2b6109fc7b6.jpg",
+        "category": "actors-Punjabi"
+    },
+    {
+        "id": 14,
+        "name": "Junior Nana Patekar",
+        "description": "Sarwan Kumar saxena is a lookalike of Bollywood star Nana Patekar. He is loved by people for his performances.",
+        "subtitle": "Celebrity Lookalike",
+        "img": "https://media.wysh.app/celeb/b0b1121ede75353592244e53e6781949.jpg",
+        "category": "Celebrity-Lookalike"
+    },
+    {
+        "id": 15,
+        "name": "Junior Dev Anand",
+        "description": "Kishore Bhaushali is an Indian film and television actor and a lookalike of Bollywood star Dev Anand.",
+        "subtitle": "Celebrity Lookalike",
+        "img": "https://media.wysh.app/celeb/c8201b8b12b60d873992453613ad7191.jpg",
+        "category": "Celebrity-Lookalike"
+    },
+    {
+        "id": 16,
+        "name": "Junior Aamir Khan",
+        "description": "Debasish Ghosh is a lookalike of Bollywood super star Aamir Khan. He is loved by people for his performances.",
+        "subtitle": "Celebrity Lookalike",
+        "img": "https://media.wysh.app/celeb/49aedbb7d0d3e867a382205c9d532f7a.jpg",
+        "category": "Celebrity-Lookalike"
+    },
+    {
+        "id": 17,
+        "name": "Kanwalpreet Singh",
+        "description": "Kanwalpreet is an actor who made his Bollywood debut with film Tamasha in 2015. He has appeared in films like Mastizaade, Tutak Tutak Tutiyan, etc.",
+        "subtitle": "Actor - Tamasha",
+        "img": "https://media.wysh.app/celeb/4002ca1e951361939f401d9fb6aeeda2.jpg",
+        "category": "actors-Punjabi"
+    },
+    {
+        "id": 18,
+        "name": "Joban Sandhu",
+        "description": "Joban is a famous singer & actor. He is known for his songs like Mangni, Jaan Nikle, etc. His song Mangni has over a million views on Youtube.",
+        "subtitle": "Singer",
+        "img": "https://media.wysh.app/celeb/661851a0513549b7d76662246b53bbee.jpg",
+        "category": "actors-Punjabi"
+    },
+    {
+        "id": 19,
+        "name": "Junior Shah Rukh Khan",
+        "description": "Prashant Walde is a Bollywood star Shah Rukh Khan lookalike. He also appeared in the movie Fan.",
+        "subtitle": "Celebrity Lookalike",
+        "img": "https://media.wysh.app/celeb/1880080c606b5f23c8c6cb2a7d1fdabc.jpg",
+        "category": "Celebrity-Lookalike"
+    },
+    {
+        "id": 20,
+        "name": "Shashi Kumar",
+        "description": "Shashi kumar, an agriculturist by profession entered Bigg boss Kannada season 6 as a common man. He won the title after gaining immense popularity.",
+        "subtitle": "Bigg Boss",
+        "img": "https://media.wysh.app/celeb/dfc0f8b7886868d93bafa15e8f2a4c80.jpg",
+        "category": "TV stars - Kannada"
+    },
+    {
+        "id": 21,
+        "name": "Niveditha Gowda",
+        "description": "Niveditha Gowda started her career as a model. She was also one of the finalists in Bigg Boss Kannada season 5.",
+        "subtitle": "Bigg Boss",
+        "img": "https://media.wysh.app/celeb/dd72006490345e72ebcc092a943e56a0.jpg",
+        "category": "TV stars - Kannada"
+    },
+    {
+        "id": 22,
+        "name": "Pratham",
+        "description": "Pratham is an Indian actor and director known for his work in Nata Bhayankara, Devrantha Manushya, MLA etc. He is the winner of Bigg Boss Kannada- 4.",
+        "subtitle": "Bigg Boss Winner",
+        "img": "https://media.wysh.app/celeb/966c6ba027296b0cc1725490cad0b611.jpg",
+        "category": "TV stars - Kannada"
+    },
+    {
+        "id": 23,
+        "name": "Chandan Shetty",
+        "description": "Chandan Shetty is a Kannada singer and music director. He is the winner of Bigg Boss Kannada season 5.",
+        "subtitle": "Singer, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/d1d4705dd9f1e488a80219d36038390c.jpg",
+        "category": "TV stars - Kannada"
+    },
+    {
+        "id": 24,
+        "name": "Junior Amitabh",
+        "description": "Rajkumar Bakhtiani is a lookalike of Bollywood super star Amitabh Bachhan. He is loved by people for his performances.",
+        "subtitle": "Celebrity Lookalike",
+        "img": "https://media.wysh.app/celeb/5d943fa21505ce3974fcf27f73648946.jpg",
+        "category": "Celebrity-Lookalike"
+    },
+    {
+        "id": 25,
+        "name": "Salman Khan Junior",
+        "description": "Shantanu Ghosh popularly known as Junior Salmaan Khan is a lookalike of Bollywood star Salman Khan. He is loved by people for his performances.",
+        "subtitle": "Celebrity Lookalike",
+        "img": "https://media.wysh.app/celeb/3b0924adba9f41cbc7c98ee3cc5d6cd1.jpg",
+        "category": "Celebrity-Lookalike"
+    },
+    {
+        "id": 26,
+        "name": "Kriti Verma",
+        "description": "Kriti is a television personality. She became famous after participating in Bigg Boss 12. In 2018, she was seen in MTV reality show Roadies Xtreme.",
+        "subtitle": "Bigg Boss S - 12",
+        "img": "https://media.wysh.app/celeb/5133450b788a126fb303681502db45d3.jpg",
+        "category": "biggboss-hindi"
+    },
+    {
+        "id": 27,
+        "name": "Nisha Milana",
+        "description": "Nisha Milana is a Kannada TV actress and model. She shot to fame as Ammu in Gattimela Kannada serial. She has also hosted shows on Chintu TV.",
+        "subtitle": "Actress - Gattimela",
+        "img": "https://media.wysh.app/celeb/a31495b2e6e257aeb242cc968a142ed7.jpg",
+        "category": "TV stars - Kannada"
+    },
+    {
+        "id": 28,
+        "name": "Nehha Pendse",
+        "description": "Nehha Pendse is known for her roles in Hindi and Marathi serials like May I Come In Madam?, Bhagyalakshmi, etc. She was a contestant in Bigg Boss 12.",
+        "subtitle": "Bigg Boss",
+        "img": "https://media.wysh.app/celeb/3010245dcf0f25335a298a23763a7b7a.jpg",
+        "category": "biggboss-hindi"
+    },
+    {
+        "id": 29,
+        "name": "Chaitra Vasudevan",
+        "description": "Chaitra Vasudevan is an actress working in the Kannada TV industry. She is a renowned anchor in Karnataka. She was a participant in Bigg Boss 7.",
+        "subtitle": "Bigg Boss",
+        "img": "https://media.wysh.app/celeb/06788a8113260316ed870509cd799117.jpg",
+        "category": "TV stars - Kannada"
+    },
+    {
+        "id": 30,
+        "name": "Puneesh Sharma",
+        "description": "Puneesh Sharma is an actor who rose to fame after entering Bigg Boss in the 11th season. He has also appeared in Love Bytes and Muskaan.",
+        "subtitle": "Bigg Boss - 7",
+        "img": "https://media.wysh.app/celeb/59ec7d9011d6c524c9c1653caedcb6b7.jpg",
+        "category": "biggboss-hindi"
+    },
+    {
+        "id": 31,
+        "name": "Mandana Karimi",
+        "description": "Mandana Karimi is an Iranian actress and model based in India, seen in shows and films like Bigg Boss 9, Kyaa Kool Hain Hum 3, Bhaag Johnny and Roy.",
+        "subtitle": "Bigg Boss - 9",
+        "img": "https://media.wysh.app/celeb/b181b7a678fa0a63bc1dab4e68c8ea67.jpg",
+        "category": "biggboss-hindi"
+    },
+    {
+        "id": 32,
+        "name": "Skanda Ashok",
+        "description": "Skanda Ashok is an actor working in South indian film industry. He is known for acting in movies like Notebook, Elektra, Chaarulatha etc.",
+        "subtitle": "Popular TV Actor",
+        "img": "https://media.wysh.app/celeb/69c3ab903b66022b5ea53c9519fd2706.jpg",
+        "category": "TV stars - Kannada"
+    },
+    {
+        "id": 33,
+        "name": "Kavita Kaushik",
+        "description": "Kavita Kaushik is a TV actress. She is known for her portrayal of Chandramukhi Chautala on SAB TV sitcom F.I.R. and as a contestant in Bigg Boss 14.",
+        "subtitle": "F.I.R.",
+        "img": "https://media.wysh.app/celeb/de3a3aa391a57ade5ec0144f89036624.jpg",
+        "category": "biggboss-hindi"
+    },
+    {
+        "id": 34,
+        "name": "Rahul Roy",
+        "description": "Rahul Roy is a bollywood actor known for his work in films like Aashiqui,JUnoon, Janam, Sapne Sajan ke, etc. He is the winner of Bigg Boss - 1.",
+        "subtitle": "Aashiqui, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/1080283e4081c9c884a694264173866e.jpg",
+        "category": "biggboss-hindi"
+    },
+    {
+        "id": 35,
+        "name": "Madhurima Tuli",
+        "description": "Madhurima is an Indian film and TV actress. She is known for her roles in Kasturi, Kumkum Bhagya, Chandrakanta, Baby, Hamari Adhuri Kahani etc.",
+        "subtitle": "Kasturi",
+        "img": "https://media.wysh.app/celeb/acedf4300ca1c25714bf7c8744595bc2.jpg",
+        "category": "biggboss-hindi"
+    },
+    {
+        "id": 36,
+        "name": "Gaurav Chopraa",
+        "description": "Gaurav Chopra is a TV actor, best known for starring on Uttaran as Raghuvendra Pratap Rathore. He has appeared as a contestant on Bigg Boss 10.",
+        "subtitle": "Bigg Boss",
+        "img": "https://media.wysh.app/celeb/754bc60704cc3400b6f5d54f2d37b8ce.jpg",
+        "category": "biggboss-hindi"
+    },
+    {
+        "id": 37,
+        "name": "Pritam Singh",
+        "description": "Pritam Singh is an actor, anchor, and radio presenter. He participated in Bigg Boss- 8, Comedy Nights Bachao Season 1, and Nach Baliye - 8.",
+        "subtitle": "Bigg Boss 8",
+        "img": "https://media.wysh.app/celeb/d5862de1592a3bafe199d8651a15972f.jpg",
+        "category": "biggboss-hindi"
+    },
+    {
+        "id": 38,
+        "name": "Mallika Singh",
+        "description": "Mallika Singh is an Indian TV actress. She is best known for her role of goddess Radha in the series RadhaKrishn on Star Bharat.",
+        "subtitle": "RadhaKrishn",
+        "img": "https://media.wysh.app/celeb/14ebf7f9614d5b612806e0a644131dc2.jpg",
+        "category": "TV stars - Kannada"
+    },
+    {
+        "id": 39,
+        "name": "Jaan Kumar Sanu",
+        "description": "Jaan Kumar Sanu is an Indian playback singer and musician and the son of the legendary singer Kumar Sanu. He was a  participant in Big Boss 14.",
+        "subtitle": "Singer",
+        "img": "https://media.wysh.app/celeb/45d3595c5c3730e4e0ecbd1ef5f27860.jpg",
+        "category": "biggboss-hindi"
+    },
+    {
+        "id": 40,
+        "name": "Kirik Keerthi",
+        "description": "Kirik Keerthi is a social commentator and activist. He has worked as a program producer and a reporter in Kannada news channels.",
+        "subtitle": "Bigg Boss",
+        "img": "https://media.wysh.app/celeb/61ca27bd6c6dbb94de6d1746171fc4b1.jpg",
+        "category": "TV stars - Kannada"
+    },
+    {
+        "id": 41,
+        "name": "Aniruddha Jatkar",
+        "description": "Aniruddha Jatkar is a Kannada film actor. He appeared in many successful Kannada films. He is the son in law of legendary Kannada actor Vishnuvardhan.",
+        "subtitle": "Popular Actor",
+        "img": "https://media.wysh.app/celeb/c4dc5c46eaa35c841173b13c98be6cc0.jpg",
+        "category": "TV stars - Kannada"
+    },
+    {
+        "id": 42,
+        "name": "Vaishnavi",
+        "description": "Vaishnavi is an actress working in the Kannada TV industry. She has acted in many serials and movies like Punar Vivaha, Agnisakshi.",
+        "subtitle": "TV Actress, Anchor",
+        "img": "https://media.wysh.app/celeb/cbdeb904cc083f390dd9cde0b08de60d.jpg",
+        "category": "TV stars - Kannada"
+    },
+    {
+        "id": 43,
+        "name": "Sahil Aanad",
+        "description": "Sahil has acted in movies and serials like SOTY 1 & 2, Babloo Happy Hai, Kasautii Zindagi Kay, etc. He was a contestant in BigBoss 10, MTV Roadies 4.",
+        "subtitle": "Popular Actor",
+        "img": "https://media.wysh.app/celeb/3aead34c44ce7244116f5d180f5560b0.jpg",
+        "category": "biggboss-hindi"
+    },
+    {
+        "id": 44,
+        "name": "Jasneet Kaur",
+        "description": "Jasneet starred in Hindi movies like Dangal & Ek Ladki ko Dekha to Aisa Laga, with Punjabi hits like Rabb Da Radio, Qismat, Little Star & Singham.",
+        "subtitle": "Actress - Dangal",
+        "img": "https://media.wysh.app/celeb/bba27b027d4511175d16715b069a8ffd.jpg",
+        "category": "actors-Punjabi"
+    },
+    {
+        "id": 45,
+        "name": "Prachi Tehlan",
+        "description": "Prachi is known for shows like Diya Aur Baati Hum, Ikyaawan. She has worked in various Punjabi & Malayali movies. She was a former basketball player.",
+        "subtitle": "Actress - Arjan",
+        "img": "https://media.wysh.app/celeb/643a20c3635b1abae4c3c874ea87340a.jpg",
+        "category": "actors-Punjabi"
+    },
+    {
+        "id": 46,
+        "name": "Roshni Sahota",
+        "description": "Roshni has acted in series Laal Ishq, Patiala Babes, etc & has appeared in various Punjabi films like Rabb Da Radio, The Great Sardaar, etc.",
+        "subtitle": "Actress - Shakti",
+        "img": "https://media.wysh.app/celeb/5462dc5c6979fae8c36e71cbcc6b6e6a.jpg",
+        "category": "actors-Punjabi"
+    },
+    {
+        "id": 47,
+        "name": "Drishtii Garewal",
+        "description": "Drishtii is an actress known for films like “Romeo Ranjha”, \"Hard Kaur\", etc. She has been awarded as PTC Critics & VIFF Critics Best Actress Award. R...",
+        "subtitle": "Punjabi Actress",
+        "img": "https://media.wysh.app/celeb/215d7245e19c0b2f501019594e781c35.jpg",
+        "category": "actors-Punjabi"
+    },
+    {
+        "id": 48,
+        "name": "Chaithra Rao",
+        "description": "Chaithra Rao is a Kannada film/TV actress. She started her acting career in 2017 with ‘Jodi Hakki’ Kannada serial. Mayabazaar 2016 was her film debut.",
+        "subtitle": "Actress - Jodi Hakki",
+        "img": "https://media.wysh.app/celeb/f714719267630a385cd67c8c46823c91.jpg",
+        "category": "TV stars - Kannada"
+    },
+    {
+        "id": 49,
+        "name": "Jayati Bhatia",
+        "description": "Jayati Bhatia is an actress best known for her roles in serials like Tu Tu Main Main and Sasural Simar Ka. She also appeared in Jhalak Dikhhla Jaa 5.",
+        "subtitle": "Sasural Simar Ka",
+        "img": "https://media.wysh.app/celeb/6a37c32534a9eb24611a1b3e21b36894.jpg",
+        "category": "old-gold"
+    },
+    {
+        "id": 50,
+        "name": "Vindu Dara Singh",
+        "description": "Vindu Dara Singh is an actor and winner of the 3rd season of Bigg Boss. He has worked in Son Of Sardaar, Housefull 2, Maine Pyar Kyun Kiya, etc",
+        "subtitle": "Bigg Boss, Son Of Sardar",
+        "img": "https://media.wysh.app/celeb/dd09f3574029a999c1b9fe25591e7fad.jpg",
+        "category": "actors-Punjabi"
+    },
+    {
+        "id": 51,
+        "name": "Rajesh Puri",
+        "description": "Rajesh Puri is a Hindi television and film actor. He is known for his comic roles in serials like Ek Se Badh Kar Ek, Hum Log, Hogi Pyaar Ki Jeet, etc.",
+        "subtitle": "Hum Log",
+        "img": "https://media.wysh.app/celeb/2446ff52982f70511cb9bd3149edb4a4.jpg",
+        "category": "old-gold"
+    },
+    {
+        "id": 52,
+        "name": "Anang Desai",
+        "description": "Anang Desai is an Indian film and television actor. He is known for his comic role in the popular comedy serial Khichdi.",
+        "subtitle": "Khichdi",
+        "img": "https://media.wysh.app/celeb/cc16ef6f6eb0d403c78c028bd66a85f3.jpg",
+        "category": "old-gold"
+    },
+    {
+        "id": 53,
+        "name": "Tej Sapru",
+        "description": "Tej Sapru is an Indian film and TV actor. He is known for his roles in movies and shows like Gupt, Sirf Tum, Saajan, Qubool Hai, Saat Phere etc.",
+        "subtitle": "Popular Actor",
+        "img": "https://media.wysh.app/celeb/b582c9018526609331741b591ce205d3.jpg",
+        "category": "old-gold"
+    },
+    {
+        "id": 54,
+        "name": "Japji Khaira",
+        "description": "Japji is an actress, who is the winner of Miss World Punjaban 2006. She has played lead roles in Dharti, Taur Mitran Di, Sigh vs Kaur, etc.",
+        "subtitle": "Punjabi Actress",
+        "img": "https://media.wysh.app/celeb/8ac844159195b9e4318a70a162e7c274.jpg",
+        "category": "actors-Punjabi"
+    },
+    {
+        "id": 55,
+        "name": "Deven Bhojani",
+        "description": "Deven Bhojani is known for serials like Baa Bahoo aur Baby, Office Office, Bhakharwadi, etc. He has also directed Sarabhai.. & Commando 2.",
+        "subtitle": "Actor - Director",
+        "img": "https://media.wysh.app/celeb/ec82d9eccb01dd99422b49c8327b90c0.jpg",
+        "category": "old-gold"
+    },
+    {
+        "id": 56,
+        "name": "Amrit Amby(Lalli)",
+        "description": "Amrit is an actor and comedian famous for his role as Lalli in the series \"Yaar Jigree Kasoti Degree\". He did his TV debut in \"Laughter Da Master\".",
+        "subtitle": "Punjabi Actor",
+        "img": "https://media.wysh.app/celeb/12125de09fa610279f1c27ef4a58a1fd.jpg",
+        "category": "actors-Punjabi"
+    },
+    {
+        "id": 57,
+        "name": "Sheela Sharma",
+        "description": "Sheela Sharma is a film and TV actress, known for her roles in Nadiya Ke Paar, Chori Chori Chupke Chupke, Madhubala – Ek Ishq Ek Junoon etc.",
+        "subtitle": "Ajnabee",
+        "img": "https://media.wysh.app/celeb/4ad10ad1a439776b45015f72107c97b8.jpg",
+        "category": "old-gold"
+    },
+    {
+        "id": 58,
+        "name": "Neelu Vaghela",
+        "description": "Neelu Vaghela is an Indian actress and dancer, known for her roles in Diya Aur Baati Hum, Tu Sooraj, Main Saanjh Piyaji, Aye Mere Humsafar etc.",
+        "subtitle": "Diya Aur Baati Hum",
+        "img": "https://media.wysh.app/celeb/1ebb92c015fa27986ffeddb016479da3.jpg",
+        "category": "old-gold"
+    },
+    {
+        "id": 59,
+        "name": "Vedhika",
+        "description": "Vedhika is an Indian film actress. She starred in popular films like Paradesi,Ruler,Shivalinga etc. Recently she appeared in Tamil movie Kanchana 3.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/d55fd185e795de18c16c31c3a29de122.jpg",
+        "category": "Movie stars - Kannada"
+    },
+    {
+        "id": 60,
+        "name": "Rakesh Bedi",
+        "description": "Rakesh Bedi is an actor known for his work in serials and films like Yes Boss, Shriman Shrimati, Vaada, Good Boy Bad Boy, Mere Jeevan Saathi, etc.",
+        "subtitle": "Popular Actor",
+        "img": "https://media.wysh.app/celeb/146ca28b47d2359e8666a4a5e2d1bdfe.jpg",
+        "category": "old-gold"
+    },
+    {
+        "id": 61,
+        "name": "Upasana Singh",
+        "description": "Upasana Singh is a popular actress. She has worked in a number of Hindi and Punjabi films. She played the character of Bua in Comedy Nights with Kapil",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/5b9a4b614cf23e5844e7f576b09d3af1.jpg",
+        "category": "old-gold"
+    },
+    {
+        "id": 62,
+        "name": "Ashika Ranganath",
+        "description": "Ashika Ranganath is a Kannada film actress. She rose to fame with the film, Crazy Boy as the female lead. She then starred in Mass Leader and Raambo 2",
+        "subtitle": "Actress - Raambo 2",
+        "img": "https://media.wysh.app/celeb/e47a30a0a5822bbcf8b5374ab655f009.jpg",
+        "category": "Movie stars - Kannada"
+    },
+    {
+        "id": 63,
+        "name": "Aditi Prabhudeva",
+        "description": "Aditi Prabhudeva is a Kannada film actress. She appeared in many successful films like Bazaar, Sinnga, Brahmachari, etc.",
+        "subtitle": "Actress - Bazaar, Sinnga",
+        "img": "https://media.wysh.app/celeb/f44901c81c7d90a16e3bae4d37b54021.jpg",
+        "category": "Movie stars - Kannada"
+    },
+    {
+        "id": 64,
+        "name": "Sonu Gowda",
+        "description": "Sonu Gowda is a Kannada film actress. She made her debut in the film \"Inthi Ninna Preethiya\" and appeared in films Paramesha Panwala and Gulama.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/c58e4999f2e22dc5b7699703b8dddec1.jpg",
+        "category": "Movie stars - Kannada"
+    },
+    {
+        "id": 65,
+        "name": "Aindrita Rai",
+        "description": "Aindrita Ray is a Kannada film actress. She starred in many successful films with top actors. She is well known for her performance in Manasaare.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/e0c3a8315cd4452c5509009c7a1042d3.jpg",
+        "category": "Movie stars - Kannada"
+    },
+    {
+        "id": 66,
+        "name": "Diganth",
+        "description": "Diganth Manchale, popularly known as Diganth, is a film actor.  He is best known for his work in movies like Pancharangi, Lifeu Ishtene, etc.",
+        "subtitle": "Popular Actor",
+        "img": "https://media.wysh.app/celeb/e59c4f9be9f40dd33db270d93471aa90.jpg",
+        "category": "Movie stars - Kannada"
+    },
+    {
+        "id": 67,
+        "name": "Milana Nagaraj",
+        "description": "Milana Nagaraj is an actress working in the Kannada films. She appeared in many Kannada movies. Recently she was seen in the movie Love Mocktail.",
+        "subtitle": "Actress - Love Mocktail",
+        "img": "https://media.wysh.app/celeb/633d99ffcfe6c88d598232f78bc089e4.jpg",
+        "category": "Movie stars - Kannada"
+    },
+    {
+        "id": 68,
+        "name": "Aindrita and Diganth",
+        "description": "Aindrita and Diganth are the most loved celebrity couple of Kannada film indutsry.",
+        "subtitle": "Celebrity Couple",
+        "img": "https://media.wysh.app/celeb/c04c53ad409060cfdc0d153355ee1109.jpg",
+        "category": "Movie stars - Kannada"
+    },
+    {
+        "id": 69,
+        "name": "Sruthi Hariharan",
+        "description": "Sruthi is a Kannada film actress and producer, best known for her roles in Nathicharami, Urvi, Godhi Banna Sadharana Mykattu, Beautiful Manasugalu etc",
+        "subtitle": "Nathicharami",
+        "img": "https://media.wysh.app/celeb/6ba1c0738d95326a5c48fd73bb3d2512.jpg",
+        "category": "Movie stars - Kannada"
+    },
+    {
+        "id": 70,
+        "name": "Richa Mukherjee",
+        "description": "Richa is an actress, popular for her role in serials Begusarai and Mere Angne Me. She has also appeared in serials like Ramayan, Suryaputra Karn, etc.",
+        "subtitle": "Begusarai",
+        "img": "https://media.wysh.app/celeb/e8ccf7b21e691ce5ef76352d902d8329.jpg",
+        "category": "bengali-bhojpuri"
+    },
+    {
+        "id": 71,
+        "name": "Nidhi Jha",
+        "description": "Nidhi is an actress and Bhojpuri film star. She has worked in movies like Gadar, Satya, etc. and in serials like Balika Vadhu, Crime Patrol, etc.",
+        "subtitle": "TV Actress",
+        "img": "https://media.wysh.app/celeb/35696ebeaf5de415c26e65aa0774fbfd.jpg",
+        "category": "bengali-bhojpuri"
+    },
+    {
+        "id": 72,
+        "name": "Moon Banerrjee",
+        "description": "Moon Banerrjee is an Indian TV actress known for her roles in series like Kasautii Zindagii Kay, Ek Tha Raja Ek Thi Rani, Muskaan etc.",
+        "subtitle": "Muskaan",
+        "img": "https://media.wysh.app/celeb/e960959c8aed26dbdf538e4b2aa8ab73.jpg",
+        "category": "bengali-bhojpuri"
+    },
+    {
+        "id": 73,
+        "name": "Micky Makhija",
+        "description": "Micky Makhija is a an actor known for his work in movies like Jai Ho, Family Man, Sooryvanshi, Prem Ratan Dhan Paayo, etc.",
+        "subtitle": "Popular Actor",
+        "img": "https://media.wysh.app/celeb/17aa423a8bc032936a925a0c3580e59a.jpg",
+        "category": "just400-hindi"
+    },
+    {
+        "id": 74,
+        "name": "Arun Bakshi",
+        "description": "Arun Bakshi is a film and television actor. He has acted as a character actor in over 100 Hindi films. He has also worked in Punjabi & Bhojpuri cinema",
+        "subtitle": "Ishq Ka Rang Safed.",
+        "img": "https://media.wysh.app/celeb/9ce137c1f527ff307fb8590cbb55da94.jpg",
+        "category": "bengali-bhojpuri"
+    },
+    {
+        "id": 75,
+        "name": "Kushee Ravi",
+        "description": "Kushee Ravi is a Kannada film actress. She rose to fame with the film Dia. She is one of the most searched actresses in the Kannada films this year.",
+        "subtitle": "Actress - Dia",
+        "img": "https://media.wysh.app/celeb/6cc6e0fcd5bad08153b23850e04a00c9.jpg",
+        "category": "Movie stars - Kannada"
+    },
+    {
+        "id": 76,
+        "name": "Priya Paul",
+        "description": "Priya Paul is a Bangla serial actress. She is known for her work in the serial Jol Nupur. She was the finalist in Bigg Boss Bangla 2.",
+        "subtitle": "Bigg Boss - Bangla",
+        "img": "https://media.wysh.app/celeb/6f2e38f8f7aef4008b6e87b204ab22ae.jpg",
+        "category": "bengali-bhojpuri"
+    },
+    {
+        "id": 77,
+        "name": "Krishna Mukherjee",
+        "description": "Krishna Mukherjee is an Indian TV actress. She is best known among her fans for playing Aliya Raghav in the Star Plus series Yeh Hai Mohabbatein.",
+        "subtitle": "Ye Hai Mohabbatein",
+        "img": "https://media.wysh.app/celeb/7e24e2bbc2417d0a59d745535dff3216.jpg",
+        "category": "bengali-bhojpuri"
+    },
+    {
+        "id": 78,
+        "name": "Priya Banerjee",
+        "description": "Priya Banerjee is a movie actor known for her work in movies like 3 Dev, Hume Tumse Pyaar Kitna, Love Bites, Dheet Patangey, etc.",
+        "subtitle": "Film Actress",
+        "img": "https://media.wysh.app/celeb/2d9bc0c4140e99ac473818fd4b8f8d21.jpg",
+        "category": "bengali-bhojpuri"
+    },
+    {
+        "id": 79,
+        "name": "Akshara Singh",
+        "description": "Akshara is an Indian actress who is primarily active in Bhojpuri films. She is known for her roles in films like Tabadala. Satya, Sarkar Raj etc.",
+        "subtitle": "Sarkar Raj",
+        "img": "https://media.wysh.app/celeb/0540cd331c59c7321a99d7dddc86306f.jpg",
+        "category": "bengali-bhojpuri"
+    },
+    {
+        "id": 80,
+        "name": "Rani Chatterjee",
+        "description": "Rani Chaterjee is a bhohpuri actress known for her work in movies like Sasura Bada Paisawala, Sita, Devra Bada Satawela and Rani No. 786, etc.",
+        "subtitle": "Bhojpuri Star",
+        "img": "https://media.wysh.app/celeb/468d94b145fb392b0d3ef1a23e309f7f.jpg",
+        "category": "bengali-bhojpuri"
+    },
+    {
+        "id": 81,
+        "name": "Rajesh Kumar",
+        "description": "Rajesh Kumar is best known for playing the role of Subodh Thakkar in the series Baa Bahoo Aur Baby and as Rosesh Sarabhai in Sarabhai vs Sarabhai.",
+        "subtitle": "Sarabhai vs Sarabhai",
+        "img": "https://media.wysh.app/celeb/e2598af5c7eb6a1ed91a80617bfb30cc.jpg",
+        "category": "just400-hindi"
+    },
+    {
+        "id": 82,
+        "name": "Chitrashi Rawat",
+        "description": "Chitrashi Rawat is a film actress and television presenter. She is best known for playing the role of Komal Chautala in the movie Chak De India.",
+        "subtitle": "Chak De India",
+        "img": "https://media.wysh.app/celeb/cebc5c650c4d0ab1e7f117a0b82cdd08.jpg",
+        "category": "just400-hindi"
+    },
+    {
+        "id": 83,
+        "name": "Sonali Nikam",
+        "description": "Sonali Nikam is a TV actress. She is best known for playing the lead role Jassi in her show Aadhe Adhoore and Ek Vivah Aisa Bhi.",
+        "subtitle": "Ek Vivah Aisa Bhi",
+        "img": "https://media.wysh.app/celeb/8757e1d65dfab45e5f65a75a3e2e122f.jpg",
+        "category": "gujarati-marathi"
+    },
+    {
+        "id": 84,
+        "name": "Gargi Patel",
+        "description": "Gargi is an actress who started her career in Bollywood film, Yaadein. She also acted in Tumko Na Bhool Paayenge, Devdas, Wazir, Krrish, Ready, etc",
+        "subtitle": "Yaadein",
+        "img": "https://media.wysh.app/celeb/021d59aa6c712d8ad2c62e8bfb4a5b4e.jpg",
+        "category": "gujarati-marathi"
+    },
+    {
+        "id": 85,
+        "name": "Devoleena",
+        "description": "Devoleena is a TV actress best known for portraying Gopi Modi in the series Saath Nibhaana Saathiya and Manorma in Laal Ishq. She was in Bigg Boss 13.",
+        "subtitle": "Bigg Boss 13",
+        "img": "https://media.wysh.app/celeb/80a0937c18765989df1b6728436a443b.jpg",
+        "category": "bengali-bhojpuri"
+    },
+    {
+        "id": 86,
+        "name": "Ruchita Jadhav",
+        "description": "Ruchita Jadhav is a TV and film actress. She appeared on TV shows such as Lek Ladki, Vrindavan, and in movies such as Fekamfaak, Vatsalya, etc.",
+        "subtitle": "Vrindavan",
+        "img": "https://media.wysh.app/celeb/2c8f5cdc41ca55e613756c0329ebb155.jpg",
+        "category": "gujarati-marathi"
+    },
+    {
+        "id": 87,
+        "name": "Nyra Bannerjee",
+        "description": "Nyra is an actress & Assistant Director who debuted with Kamaal Dhamaal Malamaal. She has acted in several Telugu, Kannada, Tamil & Malayalam films.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/084ba67a89f961bc6c6d0a6fcfdf31ea.jpg",
+        "category": "bengali-bhojpuri"
+    },
+    {
+        "id": 88,
+        "name": "Neha Mehta",
+        "description": "Neha Mehta is an Indian television actress. She is best known for her role of Anjali Mehta in the popular serial Taarak Mehta Ka Ooltah Chashmah.",
+        "subtitle": "TMKOC",
+        "img": "https://media.wysh.app/celeb/4b2777b86319452609600793ff2985ff.jpg",
+        "category": "gujarati-marathi"
+    },
+    {
+        "id": 89,
+        "name": "Manasi Naik",
+        "description": "Manasi Naik is a Marathi actress. She is best known for her performance in the Marathi film song \"Baghtoi Rikshawala\" and in films like Murder Mestri.",
+        "subtitle": "Baghtoy Rikshawala",
+        "img": "https://media.wysh.app/celeb/42b8a6ea2bc9ff165bf8485fbbaf8b4b.jpg",
+        "category": "gujarati-marathi"
+    },
+    {
+        "id": 90,
+        "name": "Aditi Govitrikar",
+        "description": "Dr Aditi Govitrikar is an actress known for her work in films like De Dana Dan, Bheja Fry 2, etc. She was the second runner up in Bigg Boss 3.",
+        "subtitle": "De Dana Dan, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/135ff030eee90ef94c6bda4dee5ef189.jpg",
+        "category": "just400-hindi"
+    },
+    {
+        "id": 91,
+        "name": "Dimple Shah",
+        "description": "Dimple Shah is an actress, best known for her work in films and serials like TMKOC, Hotel Mumbai, Tale of Love and Split Wide Open.",
+        "subtitle": "24 Hr Delivery",
+        "img": "https://media.wysh.app/celeb/bda358bc276a2c5dcf5c1b9b78df690c.jpg",
+        "category": "gujarati-marathi"
+    },
+    {
+        "id": 92,
+        "name": "Flora Saini",
+        "description": "Flora Saini is a film actress and model. She has appeared in a number of Kannada, Telugu, Hindi films and is now working in many prominent web series.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/f7eb7b765a344e757fcba5f22ea85ab4.jpg",
+        "category": "just400-hindi"
+    },
+    {
+        "id": 93,
+        "name": "Sambhavna Seth",
+        "description": "Sambhavana Seth is an actor and dancer. She gained nationwide fame with her appearance in 36 China Town’s super-hit track \"Aashiqui Mein Teri\".",
+        "subtitle": "Actress, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/7685f014097bfae3879cc027d97f44b8.jpg",
+        "category": "gujarati-marathi"
+    },
+    {
+        "id": 94,
+        "name": "Jay Bhanushali",
+        "description": "Jay Bhanushali is a famous actor and host. He is known for hosting reality TV shows like Dance India Dance. He made his film debut with Hate Story 2.",
+        "subtitle": "Popular TV Actor",
+        "img": "https://media.wysh.app/celeb/c0ce76f609fd97fec3f65e1f5f618a97.jpg",
+        "category": "gujarati-marathi"
+    },
+    {
+        "id": 95,
+        "name": "Delnaaz Irani",
+        "description": "Delnaaz is an actress who has acted in several comic roles in movies including Kal Ho Na Ho. She also participated in Nach Baliye and Big Boss 6.",
+        "subtitle": "24 Hr Delivery",
+        "img": "https://media.wysh.app/celeb/715b0cc8d2b5c4b56db0d2c0bdca87eb.jpg",
+        "category": "just400-hindi"
+    },
+    {
+        "id": 96,
+        "name": "Vidisha Srivastava",
+        "description": "Vidisha is an actress, known for her roles in Janatha Garage, Athili Sattibabu LKG, Kathavarayan, Viraat, Yeh Hai Mohabbatein, Meri Gudiya etc.",
+        "subtitle": "Janatha Garage",
+        "img": "https://media.wysh.app/celeb/25414afc8691132f2b1be0836bd10379.jpg",
+        "category": "moviestars-telugu"
+    },
+    {
+        "id": 97,
+        "name": "Dev Joshi",
+        "description": "Dev is an actor popular for playing the lead role in Balveer. In 2019, Dev was honored by the President Award in the field of Arts and Culture.",
+        "subtitle": "Balveer",
+        "img": "https://media.wysh.app/celeb/e0bc3225431267c5ca3e96b44f4910d7.jpg",
+        "category": "gujarati-marathi"
+    },
+    {
+        "id": 98,
+        "name": "Surbhi",
+        "description": "Surbhi is an actress who worked in Tamil and Telugu films. She has acted in successful Telugu movies like Gentleman, Express Raja & Okka Kshanam.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/b14706c73cbc151f61be8eb953ef0ef1.jpg",
+        "category": "moviestars-telugu"
+    },
+    {
+        "id": 99,
+        "name": "Dhanya Balakrishna",
+        "description": "Dhanya Balakrishna is an actress known for her roles in movies like SVSC, Raja Rani, Hulchul, etc. She mostly works in Telugu and Tamil cinemas.",
+        "subtitle": "SVSC",
+        "img": "https://media.wysh.app/celeb/8ade42784c559af8ad3f95d61225fbc8.jpg",
+        "category": "moviestars-telugu"
+    },
+    {
+        "id": 100,
+        "name": "Priyamani",
+        "description": "Priyamani is a South Indian film actress. Priyamani has got various awards for her movies including Nation Award and three Filmfare Awards.",
+        "subtitle": "Award Winning Actress",
+        "img": "https://media.wysh.app/celeb/346fe2596ae5f402b941faa3cbf7c349.jpg",
+        "category": "moviestars-telugu"
+    },
+    {
+        "id": 101,
+        "name": "Megha Akash",
+        "description": "Megha Akash is a popular film actress working in Telugu & Tamil films. She made her debut in Telugu film Lie. She starred with Rajinikanth in Petta.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/5e4be4c0168c991f192df80e4aebcc9a.jpg",
+        "category": "moviestars-telugu"
+    },
+    {
+        "id": 102,
+        "name": "Sayantani Ghosh",
+        "description": "Sayantani Ghosh is an actress. She is best known for her work in serials like Kumkum, Naagin, Mahabharat, Itna Karo Na Mujhe Pyaar, Naamkarann, etc.",
+        "subtitle": "Naagin",
+        "img": "https://media.wysh.app/celeb/03e1ae4ba1554e06831848d25e3f4c90.jpg",
+        "category": "just400-hindi"
+    },
+    {
+        "id": 103,
+        "name": "Nabha Natesh",
+        "description": "Nabha Natesh is a film actress who works in Telugu and Kannada films. She starred in the successful Telugu film iSmart Shankar in 2019.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/4db9320ee27d56001945c8738274bb77.jpg",
+        "category": "moviestars-telugu"
+    },
+    {
+        "id": 104,
+        "name": "Rushad Rana",
+        "description": "Rushad is an actor. He has worked in many films and serials like Mohabbatein, Veer Zara, Rangoon, Bade Achhe Lagte Hain, Kullfi Kumarr Bajewala, etc.",
+        "subtitle": "Popular tv star",
+        "img": "https://media.wysh.app/celeb/b7d5e5234c3ce851d8d9cba8d337df8b.jpg",
+        "category": "just400-hindi"
+    },
+    {
+        "id": 105,
+        "name": "Tannaz Irani",
+        "description": "Tannaz is an actress who worked in movies & serials like 36 China Town, Kahan hum Kahan tum, etc. She also participated in Bigg Boss-S3 & Nach Baliye.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/b184f997657e6efb4fa39e982498edbf.jpg",
+        "category": "featured"
+    },
+    {
+        "id": 106,
+        "name": "Pranitha Subhash",
+        "description": "Pranitha Subhash is a film actress. She is popular for movies like Porki, Whistle, Attarintiki Daredi etc. She is set to make her debut in Bollywood.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/34c3f00e104816b8503319e61981581a.jpg",
+        "category": "featured"
+    },
+    {
+        "id": 107,
+        "name": "Shefali Bagga",
+        "description": "Shefali is a famous journalist & anchor who has worked for several renowned news channels. She was a participant in the reality show Bigg Boss 13.",
+        "subtitle": "Bigg Boss, Anchor",
+        "img": "https://media.wysh.app/celeb/e2e26f042d1a792a94131748bf297849.jpg",
+        "category": "just400-hindi"
+    },
+    {
+        "id": 108,
+        "name": "Ashmit Patel",
+        "description": "Ashmit Patel is a Bollywood actor known for his roles in movies like Murder, Fight Club, Jai Ho, etc. He was a participant in BiggBoss season 4.",
+        "subtitle": "24 Hr Delivery",
+        "img": "https://media.wysh.app/celeb/bfe03f29b69adaf07d35e092b08830c3.jpg",
+        "category": "featured"
+    },
+    {
+        "id": 109,
+        "name": "Nidhhi Agerwal",
+        "description": "Nidhhi Agerwal is a popular actress who appears in Bollywood and Telugu films. She appeared in popular movies like Ismart Shankar, Mr Majnu etc.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/05ef1d4b5c06cfa9cdeceed91d05410c.jpg",
+        "category": "featured"
+    },
+    {
+        "id": 110,
+        "name": "Rohitashv Gour",
+        "description": "Rohitashv Gour is a film and TV actor. He is well known for playing the role of Mukundilal Gupta in Lapataganj and TV series Bhabi Ji Ghar Par Hai.",
+        "subtitle": "Bhabiji Ghar Par Hain!",
+        "img": "https://media.wysh.app/celeb/46fb2ef8031e8ac978862ae083b083e6.jpg",
+        "category": "featured"
+    },
+    {
+        "id": 111,
+        "name": "Tannaz and Bakhtyar",
+        "description": "Bakhtyar and Tanaaz Irani are a popular celebrity couple who have participated in shows like Big Boss, Nach Baliye together.",
+        "subtitle": "Celebrity Couple",
+        "img": "https://media.wysh.app/celeb/0fd15a2eb02f2c1d2a702d3487fe5ea7.jpg",
+        "category": "just400-hindi"
+    },
+    {
+        "id": 112,
+        "name": "Nitish Bharadwaj",
+        "description": "Nitish Bharadwaj is an Indian TV and film actor, who is known for his role of Lord Krishna in B.R. Chopras epic TV series Mahabharat.",
+        "subtitle": "Mahabharat - Krishna",
+        "img": "https://media.wysh.app/celeb/515dcb93f2d23475ba884f88aadbb1d4.jpg",
+        "category": "moviestars"
+    },
+    {
+        "id": 113,
+        "name": "Madhushree",
+        "description": "Madhushree is an Indian Singer and Musician who has sung songs in Hindi, Kannada, Tamil, Telugu, and Bengali films.",
+        "subtitle": "Singer",
+        "img": "https://media.wysh.app/celeb/b2c1040dc97ec03516a802791cd560d3.jpg",
+        "category": "moviestars"
+    },
+    {
+        "id": 114,
+        "name": "Sarah Jane Dias",
+        "description": "Sarah is an Indian actress, host, VJ and model. She acted in movies like Panjaa, Kyaa Super Kool Hain Hum and also in Inside Edge web series.",
+        "subtitle": "Inside Edge",
+        "img": "https://media.wysh.app/celeb/d5843a36b50170c2d91bd3dc9a35918b.jpg",
+        "category": "moviestars"
+    },
+    {
+        "id": 115,
+        "name": "Vishal Malhotra",
+        "description": "Vishal Malhotra is a film and TV actor. He is popular for his roles in TV shows Vicky & Vetaal, Beyhadh 2 etc. He made his film debut with Ishq Vishk.",
+        "subtitle": "Ishq Vishk",
+        "img": "https://media.wysh.app/celeb/096186e91d442ba56bc7d1bd901331a1.jpg",
+        "category": "moviestars"
+    },
+    {
+        "id": 116,
+        "name": "Manjot Singh",
+        "description": "Manjot Singh is an Indian actor, best known for his role in films like Oye Lucky! Lucky Oye!, Student Of The Year, Udaan and Fukrey.",
+        "subtitle": "Fukrey",
+        "img": "https://media.wysh.app/celeb/c584be8532f90f980fdd5dd7dd6fe0bd.jpg",
+        "category": "moviestars"
+    },
+    {
+        "id": 117,
+        "name": "Tanushree Dutta",
+        "description": "Tanushree Dutta is an actress best known for her work in movies like Aashiq Banaya Aapne, Bhagam Bhag, Good Boy, Bad Boy, etc.",
+        "subtitle": "Aashiq Banaya Aapne",
+        "img": "https://media.wysh.app/celeb/3d93886c088f4069f604a531a9968c7e.jpg",
+        "category": "moviestars"
+    },
+    {
+        "id": 118,
+        "name": "Freddy Daruwala",
+        "description": "Freddy Daruwala is an Indian model and actor, known for his roles in films like Holiday: A Soldier Is Never Off Duty, Mummy Punjabi and Commando 2.",
+        "subtitle": "Commando 2",
+        "img": "https://media.wysh.app/celeb/bf18f6b357f95b3e93a5dbd337dbd875.jpg",
+        "category": "moviestars"
+    },
+    {
+        "id": 119,
+        "name": "Shamna (Poorna)",
+        "description": "Shamna Kasim is a South Indian film actress and dancer. She  is known for her roles in Kaappaan, Madhura Raja,  Avunu, Raju Gari Gadhi etc.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/6890e85e6801fe791602ec94e665900e.jpg",
+        "category": "malayalam-stars"
+    },
+    {
+        "id": 120,
+        "name": "Rajesh Hebbar",
+        "description": "Rajesh Hebbar is an Indian actor working in the Malayalam film and TV industry. He is known for his roles in serials like Orma, Ammakili, Bharya etc.",
+        "subtitle": "Popular TV Actor",
+        "img": "https://media.wysh.app/celeb/1f1079e0c2e626865a8b6fb0f6340a19.jpg",
+        "category": "malayalam-stars"
+    },
+    {
+        "id": 121,
+        "name": "Preeti Jhangiani",
+        "description": "Preeti Jhangiani is an Indian model and actress. She is known for her role in films like Mohabbatein, Awara Paagal Deewana, Taawdo The Sunlight etc.",
+        "subtitle": "Mohabbatein",
+        "img": "https://media.wysh.app/celeb/c410344b9061c779c45f71ac8532eba8.jpg",
+        "category": "moviestars"
+    },
+    {
+        "id": 122,
+        "name": "Arya Badai",
+        "description": "Arya is an actress in the Malayalam film and TV industry. She is known for her role in the TV comedy Badai Bungalow and is a contestant in Bigg Boss 2",
+        "subtitle": "Badai Bungalow",
+        "img": "https://media.wysh.app/celeb/174f7d37bdbbf9386622fd746419504d.jpg",
+        "category": "malayalam-stars"
+    },
+    {
+        "id": 123,
+        "name": "Swasika Vijay",
+        "description": "Swasika is an Indian actress and dancer. She predominantly appears in Malayalam films, TV shows and has also worked in a few Tamil and Telugu films",
+        "subtitle": "Seetha",
+        "img": "https://media.wysh.app/celeb/f6a4bf724d1a3827fe0fd68c4b4c9ac3.jpg",
+        "category": "malayalam-stars"
+    },
+    {
+        "id": 124,
+        "name": "Priety Asrani",
+        "description": "Preity Asrani is an actress. She got her breakthrough with Telugu film Malli Raava. She also plays the lead role in the Tamil serial Minnale.",
+        "subtitle": "Actress - Malli Raava",
+        "img": "https://media.wysh.app/celeb/54431a41ef35209efcb24b7a0fe6ff38.jpg",
+        "category": "moviestars-telugu"
+    },
+    {
+        "id": 125,
+        "name": "Aneesh Gopal",
+        "description": "Aneesh Gopal is a Malayalam film actor. He is known for his roles in films like Argentina Fans Kaattoorkadavu,  Ladoo,  Kalki,  Theevandi etc.",
+        "subtitle": "Actor - Kalki",
+        "img": "https://media.wysh.app/celeb/48e4a4978f6b0b7af7d09e1193101286.jpg",
+        "category": "malayalam-stars"
+    },
+    {
+        "id": 126,
+        "name": "Rajisha Vijayan",
+        "description": "Rajisha Vijayan is a popular film actress who appears in Malayalam films like Anuraga Karikkin Vellam, June, Finals, Standup, Love etc. Her Tamil debu...",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/f1200b2539a30b5d7a4f8855948d9675.jpg",
+        "category": "malayalam-stars"
+    },
+    {
+        "id": 127,
+        "name": "Kaniha",
+        "description": "Kaniha is a South Indian film actress. She starred in popular films like Five Star, Bhagyadevatha, Rajakumari, Pazhassi Raja, Mamangam etc.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/ab9b505cf7c65e66f2d4682ef983b03d.jpg",
+        "category": "malayalam-stars"
+    },
+    {
+        "id": 128,
+        "name": "Samyuktha Menon",
+        "description": "Samyuktha Menon is a popular film actress who appears in Malayalam films like Theevandi, Lilli, Under World, Uyare, Kalki etc.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/1210bfe9e29c37805b1e4798058fe20e.jpg",
+        "category": "malayalam-stars"
+    },
+    {
+        "id": 129,
+        "name": "Ali Reza",
+        "description": "Ali Reza is an actor and model. He is the finalist of Bigg Boss Telugu season 3 and has acted in serials like Pasupu kunkuma which made him popular.",
+        "subtitle": "Bigg Boss",
+        "img": "https://media.wysh.app/celeb/d36f323a4a44216892b0f36050af9c74.jpg",
+        "category": "tvstars-telugu"
+    },
+    {
+        "id": 130,
+        "name": "Priya Varrier",
+        "description": "Priya Varrier is a Malayalam film Actress and Model. She rose to fame after the music video of her debut Malayalam film Oru Adaar Love went viral.",
+        "subtitle": "Oru Adaar Love",
+        "img": "https://media.wysh.app/celeb/e8820329daa4394834f2a2ad673973cf.jpg",
+        "category": "malayalam-stars"
+    },
+    {
+        "id": 131,
+        "name": "Nirupam Paritala",
+        "description": "Nirupam Paritala is a Telugu TV actor.He has participated in various reality shows. His famous TV works include Kartheeka deepam, Chandramukhi etc.",
+        "subtitle": "Actor - Karthika Deepam",
+        "img": "https://media.wysh.app/celeb/3f851960871de032ddb4151b91dcf1e1.jpg",
+        "category": "tvstars-telugu"
+    },
+    {
+        "id": 132,
+        "name": "Malavika Menon",
+        "description": "Malavika is a Malayalam film actress known. She is known for her roles in Njan Marykutty, Joseph, Edakkad Battalion 06, Porinju Mariam Jose etc.",
+        "subtitle": "Actress - Joseph",
+        "img": "https://media.wysh.app/celeb/aa342c9a41d4c1d73d6a4efeb5fc16e0.jpg",
+        "category": "malayalam-stars"
+    },
+    {
+        "id": 133,
+        "name": "Shenaz Treasury",
+        "description": "Shenaz is an Indian actress, TV host, writer, and travel vlogger. She is known for movies like Radio, Delhi Belly, Munna Michael, etc.",
+        "subtitle": "Delhi Belly",
+        "img": "https://media.wysh.app/celeb/d83cebc390ebc70953cb253769849338.jpg",
+        "category": "moviestars"
+    },
+    {
+        "id": 134,
+        "name": "Anchor Ravi",
+        "description": "Ravi is a famous Telugu TV anchor. He is best known for his TV shows like Dhee Juniors, Pattas etc. He has also hosted many popular events and shows",
+        "subtitle": "Patas, Dhee Juniors",
+        "img": "https://media.wysh.app/celeb/f6f4557a1f44f11f567e2767af56a928.jpg",
+        "category": "tvstars-telugu"
+    },
+    {
+        "id": 135,
+        "name": "Sreemukhi",
+        "description": "Sreemukhi is an actress & anchor. She is one of the most popular TV anchor famous for her show Pataas and for being a finalist in bigg boss 3.",
+        "subtitle": "Anchor, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/81848963ead7125fb23353ed60efb2ba.jpg",
+        "category": "tvstars-telugu"
+    },
+    {
+        "id": 136,
+        "name": "Shiva Jyothi",
+        "description": "Shiva Jyoti is an Indian news anchor who works for TV9 News Channel. She is popularly known as Savithri. She was a contestant on Bigg Boss Telugu 3.",
+        "subtitle": "Anchor, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/5c6ee14a61a4c7ca59627b6302fe7e01.jpg",
+        "category": "tvstars-telugu"
+    },
+    {
+        "id": 137,
+        "name": "Kaushal Manda",
+        "description": "Kaushal Manda is a Telugu Actor & Model.He is the title winner of Big Boss Telugu 2.He has worked in 1k ad films and showed up in 82 films.",
+        "subtitle": "Actor, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/99e84b758aa72e862fe5706636c74fd1.jpg",
+        "category": "tvstars-telugu"
+    },
+    {
+        "id": 138,
+        "name": "Arjun Ambati",
+        "description": "Arjun Ambati is a Telugu film and TV actor. He won the Nandhi award for his debut film \"Ardhanaari\".He made his debut with serial \"Agnisakshi\".",
+        "subtitle": "Actor - Agnisakshi",
+        "img": "https://media.wysh.app/celeb/652f34f6830908ecee5d6664c402c53b.jpg",
+        "category": "tvstars-telugu"
+    },
+    {
+        "id": 139,
+        "name": "Salim Merchant",
+        "description": "Salim Merchant is a music director and singer, known for his works in Coolie No. 1, Rab Ne Bana Di Jodi, Fashion, Race 3, Cocktail, Kites etc.",
+        "subtitle": "Music",
+        "img": "https://media.wysh.app/celeb/6c02b65e91af914b9d1d711e96d67554.jpg",
+        "category": "brand-promotion-hindi"
+    },
+    {
+        "id": 140,
+        "name": "Himaja",
+        "description": "Himaja is an actress working in Telugu films. She is known for movies like Nenu Sailaja and Chitralahari. She was a contestant in Bigg Boss Telugu 3.",
+        "subtitle": "Actress, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/046a3a5c0e3e9b4ffc581fe2142ddef8.jpg",
+        "category": "tvstars-telugu"
+    },
+    {
+        "id": 141,
+        "name": "Sharman Joshi",
+        "description": "Sharman Joshi is a Bollywood actor. He is best known for his work in movies like 3 Idiots, Hate Story 3, Rang De Basanti, Xcuse Me, etc.",
+        "subtitle": "3 Idiots",
+        "img": "https://media.wysh.app/celeb/abba0f0e52f328e67aa7611acf62b544.jpg",
+        "category": "brand-promotion-hindi"
+    },
+    {
+        "id": 142,
+        "name": "Meghana Lokesh",
+        "description": "Meghana Lokesh is a Telugu TV actress. She became popular for her roles in serials Sasirekha Parinayam and Kalyana Vaibhogam.",
+        "subtitle": "Popular TV Actress",
+        "img": "https://media.wysh.app/celeb/9ce287b6e96f647a363bc210efde394b.jpg",
+        "category": "tvstars-telugu"
+    },
+    {
+        "id": 143,
+        "name": "Siddharth Nigam",
+        "description": "Siddharth Nigam is an Indian actor- who started off as a gymnast. He is currently seen as Aladdin in Sab TVs Aladdin—Naam Toh Suna Hoga",
+        "subtitle": "Aladdin",
+        "img": "https://media.wysh.app/celeb/83a7d453ba26f5a826ab31ced8013e76.jpg",
+        "category": "brand-promotion-hindi"
+    },
+    {
+        "id": 144,
+        "name": "Aarti Chabria",
+        "description": "Aarti is an Indian actress and director. She is known for her work in Awara Paagal Deewana, Shootout At Lokhandwala, Mumbai Varanasi Express etc.",
+        "subtitle": "Awara Paagal Deewana",
+        "img": "https://media.wysh.app/celeb/d1304ec9f19a1c2dd69e6ff22b4a4cf1.jpg",
+        "category": "brand-promotion-hindi"
+    },
+    {
+        "id": 145,
+        "name": "Sushant Singh",
+        "description": "Sushant Singh is an Indian film and television actor. He is best known for presentng the crime show Savdhaan India.",
+        "subtitle": "Savdhaan India",
+        "img": "https://media.wysh.app/celeb/08391a8f537cc6107bd15b6554f87acb.jpg",
+        "category": "brand-promotion-hindi"
+    },
+    {
+        "id": 146,
+        "name": "Tridha Choudhury",
+        "description": "Tridha is an Indian actress known for her roles in Aashram, Mishawr Rawhoshyo, Surya vs Surya, Bandish Bandits etc.",
+        "subtitle": "Bandish Bandits",
+        "img": "https://media.wysh.app/celeb/b27d43ef1196f0effdae58059ad47112.jpg",
+        "category": "brand-promotion-hindi"
+    },
+    {
+        "id": 147,
+        "name": "Geetha Madhuri",
+        "description": "Geetha Madhuri is a playback singer working in the Telugu film industry.She also won two Filmfare awards. She has participated in Bigg Boss Telugu 2.",
+        "subtitle": "Singer, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/86babfe4139fc14254e399a1eab26db9.jpg",
+        "category": "tvstars-telugu"
+    },
+    {
+        "id": 148,
+        "name": "Sophie Choudry",
+        "description": "Sophie Choudry is a TV host, singer, and film actress based in India. She has been active primarily in Indian films and is also a former MTV VJ.",
+        "subtitle": "Shootout at Wadala",
+        "img": "https://media.wysh.app/celeb/5484d8c3b526e3c9964523de87ed9da9.jpg",
+        "category": "brand-promotion-hindi"
+    },
+    {
+        "id": 149,
+        "name": "Punarnavi",
+        "description": "Punarnavi is a Telugu film actress. She acted in movies like Uyyala Jampala, Pittagoda etc. She was a contestant in the Bigg Boss Telugu 3.",
+        "subtitle": "Actress, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/0b2c6097f8ab2da006fad740f2a8e17c.jpg",
+        "category": "tvstars-telugu"
+    },
+    {
+        "id": 150,
+        "name": "Hari Teja",
+        "description": "Hari Teja is a TV actress, anchor and a serial artist.She also acts as a character artists in films. Hari has participated in Bigg Boss Telugu.",
+        "subtitle": "Actress, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/2b66070e8696f9bbbb1e07a58f915f8d.jpg",
+        "category": "tvstars-telugu"
+    },
+    {
+        "id": 151,
+        "name": "Prachi Desai",
+        "description": "Prachi Desai is a famous Bollywood actress. Before entering Bollywood she was a popular TV actress. Prachi made her debut in Bollywood in 2008 with th...",
+        "subtitle": "Rock On",
+        "img": "https://media.wysh.app/celeb/d59920df5ce25f818071e7b558352986.jpg",
+        "category": "brand-promotion-hindi"
+    },
+    {
+        "id": 152,
+        "name": "Jannat Zubair",
+        "description": "Jannat Zubair Rahmani is an Indian Film and TV actress. She got her fame with Colors TVs serial \"Phulwa\" in 2011.",
+        "subtitle": "Popular TV Actress",
+        "img": "https://media.wysh.app/celeb/674fdb80e2d569be0219d16b39d0f798.jpg",
+        "category": "brand-promotion-hindi"
+    },
+    {
+        "id": 153,
+        "name": "Balraj Syal",
+        "description": "Balraj Syal is an Actor, Comedian, and host known for appearing in Colors TV Mujhse Shaadi Karoge and Fear Factor Khatron Ke Khiladi 10.",
+        "subtitle": "Fear Factor",
+        "img": "https://media.wysh.app/celeb/41b3c3bd01e64a46504ebf601222f04e.jpg",
+        "category": "comedians"
+    },
+    {
+        "id": 154,
+        "name": "Amit Mistry",
+        "description": "Amit Mistry is an Indian actor best known for his roles in shows like Yamla Pagla Deewana, Maddam Sir, Tenali Rama, Bandish Bandits, etc.",
+        "subtitle": "Bandish Bandits",
+        "img": "https://media.wysh.app/celeb/08ef8b3990e23633c9e0a8b033577147.jpg",
+        "category": "comedians"
+    },
+    {
+        "id": 155,
+        "name": "Rakhi Vijan",
+        "description": "Rakhi is an actress known for her role of Sweety Mathur in the popular sitcom Hum Paanch. She also acted in Golmaal Returns, Krrish 3, Naagin 4 etc.",
+        "subtitle": "Hum Paanch",
+        "img": "https://media.wysh.app/celeb/5f3f0454f205f481ad5435feda6554cb.jpg",
+        "category": "comedians"
+    },
+    {
+        "id": 156,
+        "name": "Kiku Sharda",
+        "description": "Kiku Sharda is an actor popular for playing comic roles in comedy shows like FIR, The Kapil Sharma Show, etc.",
+        "subtitle": "The Kapil Sharma Show",
+        "img": "https://media.wysh.app/celeb/535c874acd5442acdcf136c143b7963d.jpg",
+        "category": "brand-promotion-hindi"
+    },
+    {
+        "id": 157,
+        "name": "Guddi Maruti",
+        "description": "Guddi Maruti is an actress known for her comedy roles on TV and in movies like Dulhe Raja, Chor Machaye Shor, Mrs Kaushik Ki Paanch Bahuein etc.",
+        "subtitle": "Dulhe Raja",
+        "img": "https://media.wysh.app/celeb/77f7fc4fed2a2c0a82c2656d005a20a5.jpg",
+        "category": "comedians"
+    },
+    {
+        "id": 158,
+        "name": "Spoorthi Jithender",
+        "description": "Spoorthi Jithender is a Telugu playback singer. She is popular for her songs like Undipova,dan dana re etc. She has sung songs in about 20 films.",
+        "subtitle": "Singer",
+        "img": "https://media.wysh.app/celeb/0c4054143b87fef0e0feb34e7b7d2bc7.jpg",
+        "category": "rjs"
+    },
+    {
+        "id": 159,
+        "name": "RJ Manav",
+        "description": "Manav is a radio jockey at 94.3FM Chandigarh. He is also a writer, a voice-over artist, and an actor. ",
+        "subtitle": "Popular RJ",
+        "img": "https://media.wysh.app/celeb/b2d0b61f60cfe90510e37e2528ef7c77.jpg",
+        "category": "rjs"
+    },
+    {
+        "id": 160,
+        "name": "RJ Prateeka",
+        "description": "Prateeka is a RJ at 106.4 Magic FM. She is loved by radio listeners for her show Masth Mornings. She is one of Hyderabads most popular radio jockey.",
+        "subtitle": "Popular RJ",
+        "img": "https://media.wysh.app/celeb/7741c47717771522b0ffa769ab235db1.jpg",
+        "category": "rjs"
+    },
+    {
+        "id": 161,
+        "name": "RJ Bhargavi",
+        "description": "RJ Bhargavi is a radio jockey.She hosts the morning show on 98.3 fm Mirchi. She is also a stupendous mimicry artiste, tv presenter on sakshi tv",
+        "subtitle": "Band Baaja with Bhargavi",
+        "img": "https://media.wysh.app/celeb/b36fca46dec9655df6b9d5e529724f2b.jpg",
+        "category": "rjs"
+    },
+    {
+        "id": 162,
+        "name": "Ahsaan Qureshi",
+        "description": "Ahsaan Qureshi is a standup comedian. He is the 2005 runner-up of The Great Indian Laughter Challenge. He was a contestant in Bigg Boss season 2.",
+        "subtitle": "TGI Laughter Challenge",
+        "img": "https://media.wysh.app/celeb/c119049854d84dde40adf53e30040223.jpg",
+        "category": "comedians"
+    },
+    {
+        "id": 163,
+        "name": "RJ Atishay",
+        "description": "RJ Atishay is a Radio Jockey and an Anchor. He is an RJ on 93.5 Red FM Dehradun and loved by his fans for his popular radio program Midnight Masala",
+        "subtitle": "Popular RJ",
+        "img": "https://media.wysh.app/celeb/ffa5e694a89eacf4c389fca3ffc6c21a.jpg",
+        "category": "rjs"
+    },
+    {
+        "id": 164,
+        "name": "RJ Shekar Basha",
+        "description": "Shekar Basha is a RJ on BIG FM 92.7 Hyderabad. He is the only radio jockey in India to have won the Excellence in Radio Award 18 times.",
+        "subtitle": "Popular RJ",
+        "img": "https://media.wysh.app/celeb/cc893176e157f8a4b5496a638002dbbe.jpg",
+        "category": "rjs"
+    },
+    {
+        "id": 165,
+        "name": "RJ Hemant",
+        "description": "RJ Hemant is a film actor and radio jockey. He acted in movies like Arjun reddy, Maharshi, Oh baby etc. He is a radio jockey at 98.3 FM Radio Mirchi.",
+        "subtitle": "Popular RJ",
+        "img": "https://media.wysh.app/celeb/87b2473c03b16751d69c8f7f5577b93d.jpg",
+        "category": "rjs"
+    },
+    {
+        "id": 166,
+        "name": "Parveen Kaur",
+        "description": "Parveen Kaur is an Indian actor, model, and singer. She is also an Instagram Influencer and has more than 10K followers on her Instagram page.",
+        "subtitle": "Influencer",
+        "img": "https://media.wysh.app/celeb/f19facadd921cb6166d591f490600d22.jpg",
+        "category": "Influencers & Models"
+    },
+    {
+        "id": 167,
+        "name": "Dinesh",
+        "description": "Dinesh, better known among radio listeners as RJ Potugadu is a radio jockey at Radio City 91.1FM. He is popular among radio listeners for his show.",
+        "subtitle": "RJ Potugadu",
+        "img": "https://media.wysh.app/celeb/2f82ef312ae3a645b1bd1484053c45bb.jpg",
+        "category": "rjs"
+    },
+    {
+        "id": 168,
+        "name": "Resty Kamboj",
+        "description": "Resty is a TikTok star and social media influencer. He is known for his lip-sync and comedy videos & has a huge fan following on TikTok and Instagram.",
+        "subtitle": "Influencer",
+        "img": "https://media.wysh.app/celeb/114e2386374d8b496a12eb5ea669a502.jpg",
+        "category": "Influencers & Models"
+    },
+    {
+        "id": 169,
+        "name": "Dinesh Mohan",
+        "description": "Dinesh is an actor, popular for his body transformation and modeling career in his 60s. He has worked in Bharat, Saand ki Aankh and Happy Sardaar.",
+        "subtitle": "Movie - Saand ki Aankh",
+        "img": "https://media.wysh.app/celeb/4515f717de30b7f0e7691a36d815446a.jpg",
+        "category": "Influencers & Models"
+    },
+    {
+        "id": 170,
+        "name": "Revathy Akka",
+        "description": "Revathi Reddy, popularly known as Revathi Akka, is an Instagram, YouTube n TikTok star. She rose to fame with her dance, singing n workout exercises.",
+        "subtitle": "Instagrammer",
+        "img": "https://media.wysh.app/celeb/1630a6d128a77449b0f86558e0e756f6.jpg",
+        "category": "Influencers & Models"
+    },
+    {
+        "id": 171,
+        "name": "Hemant pandey",
+        "description": "Hemant Pandey is an actor known for his work in movies and serials like Yaariyan, Krrish, Ready, Office Office, etc.",
+        "subtitle": "Office Office",
+        "img": "https://media.wysh.app/celeb/a888a780e813b04e7248ae3a8c91b608.jpg",
+        "category": "comedians"
+    },
+    {
+        "id": 172,
+        "name": "Supreet Jhajj",
+        "description": "Supreet is a Punjabi model. She was awarded as the second runner up in Miss PTC Punjab. She also makes TikTok videos which are loved by her fans.",
+        "subtitle": "Punjabi Model",
+        "img": "https://media.wysh.app/celeb/dec271b4719eb41f28da7b165e288774.jpg",
+        "category": "Influencers & Models"
+    },
+    {
+        "id": 173,
+        "name": "Palka Chaudhary",
+        "description": "Palka Chaudhary is an Indian model. She was the Finalist of Miss Bollywood Sensation 2018 and Semifinalist of Miss Punjab 2018 and Miss Global Diva.",
+        "subtitle": "Influencer",
+        "img": "https://media.wysh.app/celeb/9373ec2cf5828a360459b9cc35d1850d.jpg",
+        "category": "Influencers & Models"
+    },
+    {
+        "id": 174,
+        "name": "Pranav Kharbanda",
+        "description": "Pranav is a trainer, Famous Academician, Industry leader, and IIM-C Alumni with a world record for the longest HR Training Session Marathon.",
+        "subtitle": "Academician",
+        "img": "https://media.wysh.app/celeb/a88e8b534603bee8b070f075b1ebc238.jpg",
+        "category": "Influencers & Models"
+    },
+    {
+        "id": 175,
+        "name": "Sambhavna and Avinash",
+        "description": "Avinash and Sambhavna are a popular celebrity couple. They have a YouTube channel with more than 1 million subscribers where they post regular vlogs.",
+        "subtitle": "Celebrity Couple",
+        "img": "https://media.wysh.app/celeb/9fe4cd86d8e334d314bc269776f7bf57.jpg",
+        "category": "Influencers & Models"
+    },
+    {
+        "id": 176,
+        "name": "Kush Shah",
+        "description": "Kush Shah is a TV actor. He started as a child actor and he is famous for his role of Goli in the TV show ‘Taarak Mehta Ka Ooltah Chashmah’.",
+        "subtitle": "TMKOC",
+        "img": "https://media.wysh.app/celeb/0fc580bdd37dbb4e9613276422cf8fc8.jpg",
+        "category": "comedians"
+    },
+    {
+        "id": 177,
+        "name": "Himanshu Malhotra",
+        "description": "Himanshu Malhotra is an actor known for his work in shows like Yeh Hai Aashiqui, Dil Jaise Dhadke... Dhadakne Do, Mariam Khan - Reporting Live etc.",
+        "subtitle": "Nach Baliye",
+        "img": "https://media.wysh.app/celeb/6ba457f5e52c3a14cfc8f17c503d19d4.jpg",
+        "category": "Influencers & Models"
+    },
+    {
+        "id": 178,
+        "name": "Sheena Bajaj",
+        "description": "Sheena Bajaj is an Indian actress known for roles in series like Best of Luck Nikki, Mariam Khan - Reporting Live, Arjun, Kuch Toh Log Kahenge etc.",
+        "subtitle": "Best of Luck Nikki",
+        "img": "https://media.wysh.app/celeb/5dc2eaa4b732dbd9a49258de60d5d3c9.jpg",
+        "category": "Influencers & Models"
+    },
+    {
+        "id": 179,
+        "name": "Shweta Rohira",
+        "description": "Shweta Rohira is a Freelance Journalist, Writer & Artist. She has acted in a few short films and has a huge following on social media.",
+        "subtitle": "Influencer",
+        "img": "https://media.wysh.app/celeb/6e8079f9ec8f0bd0e43800cbec7ee035.jpg",
+        "category": "Influencers & Models"
+    },
+    {
+        "id": 180,
+        "name": "Neha Saxena",
+        "description": "Neha is an influencer and content creator with more than 350K followers on Instagram. She is known for contents related to fashion and travelling.",
+        "subtitle": "Instagrammer",
+        "img": "https://media.wysh.app/celeb/39e487a7ba61d5fca48ae19a72ff7bfb.jpg",
+        "category": "Influencers & Models"
+    },
+    {
+        "id": 181,
+        "name": "Balvinder Singh",
+        "description": "Balwinder is a film and TV actor. He is best known for his work in popular serial Tarak Mehta Ka Oolta Chasma.",
+        "subtitle": "TMKOC",
+        "img": "https://media.wysh.app/celeb/560ee09ffd27b978727a7ad0fe3c2ff1.jpg",
+        "category": "comedians"
+    },
+    {
+        "id": 182,
+        "name": "Syamala",
+        "description": "Syamala is an anchor. She is popularly known as anchor Syamala. She also hosted many events and shows. She was a contestant in Bigg Boss Telugu 2.",
+        "subtitle": "Anchor, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/7c5a6446cf27674b325c221a0a4fe702.jpg",
+        "category": "just400-south"
+    },
+    {
+        "id": 183,
+        "name": "Aadarsh",
+        "description": "Aadarsh is famous for his negative roles in Telugu films.He was also the runner up of reality TV show Bigg Boss Telugu - 1.",
+        "subtitle": "Actor, Bigg Boss",
+        "img": "https://media.wysh.app/celeb/c9c000da5c5d37c8d8b48c595370014b.jpg",
+        "category": "just400-south"
+    },
+    {
+        "id": 184,
+        "name": "Vaishnavi Mahant",
+        "description": "Vaishnavi is a film and TV actress who is popular for playing Geeta Viswas in the serial Shaktimaan. She has acted in various Bollywood films.",
+        "subtitle": "Shaktimaan",
+        "img": "https://media.wysh.app/celeb/3a40422548e8223ee64e303e1e758ae8.jpg",
+        "category": "tvstars-singers-hindi"
+    },
+    {
+        "id": 185,
+        "name": "Shubhangi Atre",
+        "description": "Shubhangi Atre is an Indian TV actress known for her roles in serials like Kasturi, Kasautii Zindagii Kay, Bhabiji Ghar Par Hain! etc.",
+        "subtitle": "Bhabiji Ghar Par Hain!",
+        "img": "https://media.wysh.app/celeb/e54fe29a24be6818a3f53f3f17fa3d35.jpg",
+        "category": "tvstars-singers-hindi"
+    },
+    {
+        "id": 186,
+        "name": "Bhumika Gurung",
+        "description": "Bhumika Gurung is a TV actress, who came to light for her Main Female Protagonist title role of Nimki in Serial Nimki Mukhiya on Star Bharat.",
+        "subtitle": "Nimki Mukhiya",
+        "img": "https://media.wysh.app/celeb/ac3394648b5778a9a30125b6c8ff767b.jpg",
+        "category": "tvstars-singers-hindi"
+    },
+    {
+        "id": 187,
+        "name": "Rohit Roy",
+        "description": "Rohit Roy is an award winning actor known for his roles in hit TV shows: Swaabhiman & Sanjivani & Super Hit films: Shootout at Lokhandwala & Kaabil",
+        "subtitle": "Popular Actor",
+        "img": "https://media.wysh.app/celeb/94c3b02b85dfba91eb5716217e79a058.jpg",
+        "category": "tvstars-singers-hindi"
+    },
+    {
+        "id": 188,
+        "name": "Madalsa Sharma",
+        "description": "Madalsa Sharma is an Indian actress. She is known for her performances in Samrat & Co., Fitting Master, Shourya, Patiala Dreamz, Angel, Anupamaa etc.",
+        "subtitle": "Anupamaa",
+        "img": "https://media.wysh.app/celeb/bc757e9eed96813ec5be4462276be430.jpg",
+        "category": "tvstars-singers-hindi"
+    },
+    {
+        "id": 189,
+        "name": "Deepika Singh Goyal",
+        "description": "Deepika Singh Goyal is a television actress. She is known for her roles in serials and web series like Diya Aur Baati Hum, Kavach, Halala, etc.",
+        "subtitle": "Diya Aur Baati Hum",
+        "img": "https://media.wysh.app/celeb/33233cf3b29161449dfec5a42e750cf8.jpg",
+        "category": "tvstars-singers-hindi"
+    },
+    {
+        "id": 190,
+        "name": "Apara Mehta",
+        "description": "Apara Mehta is an actress known for her work in serials and movies like Kyunki Saas Bhi Kabhi Bahu Thi, Ek Mahal Ho Sapno Ka, Devdas, etc.",
+        "subtitle": "Popular Actress",
+        "img": "https://media.wysh.app/celeb/4782a5a30ef87dc169a680b408f65e41.jpg",
+        "category": "tvstars-singers-hindi"
+    }
+]

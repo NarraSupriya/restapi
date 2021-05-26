@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Jalsa",
+        "online-order": "Available",
+        "book-table": "Available",
+        "rate": 4.1,
+        "votes": 775,
+        "rest_type": "casual Dining",
+        "cuisines": "North Indian, South Indian, Chinese",
+        "meal_type": "Buffet",
+        "city": "Hyderabad"
+    },
+    {
+        "id": 2,
+        "name": "Penthouse Cafe",
+        "online-order": "Available",
+        "book-table": "Not Available",
+        "rate": 4,
+        "votes": 324,
+        "rest_type": "cafe",
+        "cuisines": "Pizza, Cafe, Italian",
+        "meal_type": "cafes",
+        "city": "Chennai"
+    },
+    {
+        "id": 3,
+        "name": "Addhuri Udupi Bhojana",
+        "online-order": "Not Available",
+        "book-table": "Not Available",
+        "rate": 3.7,
+        "votes": 88,
+        "rest_type": "Quick Bites",
+        "cuisines": "North Indian, South Indian",
+        "meal_type": "Buffet",
+        "city": "Hyderabad"
+    },
+    {
+        "id": 4,
+        "name": "The Coffee Shake",
+        "online-order": "Available",
+        "book-table": "Available",
+        "rate": 4.2,
+        "votes": 164,
+        "rest_type": "cafe",
+        "cuisines": "Cafe, Chinese, Continental, Italian",
+        "meal_type": "Buffet",
+        "city": "Vijayawada"
+    }
+]
